@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import axios from "axios";
 
-const API_BASE_URL = "https://lawyersverifyandcases.onrender.com";
+const API_BASE_URL = "https://lawyerverifyandcases.onrender.com";
 
 const ApiTester = () => {
   const [formData, setFormData] = useState({
